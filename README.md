@@ -46,7 +46,7 @@ Project/
 
 | Category | Score |
 |----------|------:|
-| Performance | 81 |
+| Performance | 100 |
 | Accessibility | 96 |
 | Best Practices | 100 |
 | SEO | 100 |
